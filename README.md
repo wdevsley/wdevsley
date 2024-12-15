@@ -1,8 +1,5 @@
 <div align="center">
+  <img height="400" src="https://i.gifer.com/VFan.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/wdevsley/wdevsley/output/snake.svg" alt="Snake animation" />
 
 ###
